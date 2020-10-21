@@ -19,6 +19,7 @@ Dr Ayman El Mesalami
 
 using namespace std;
 
+//function prototypes
 int     PromptForBallNumber();
 int     PromptForIterationNumber();
 void    Menu(int &numBalls, int &iters, bool &exit);
@@ -51,7 +52,7 @@ int main(){
     iters:       number of iterations in in the main loop inside the     Launch function
     exit: boolean variable that allows the user to terminate the program, (set to true when user wants to terminate)
 */
-void Menu(int &numBalls, int &iters, bool &exit){
+void Menu(int &numBalls, int &iters, bool &exit){ ///Function created by Devin Suttler
    //FILL THIS FUNCTION
    int action;
 
