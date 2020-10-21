@@ -1,4 +1,4 @@
 # spring2020_lab4
 
-This lab was intended for us to create and implement constructors in C++ classes/structs. 
-In this specific lab we used structs.
+This folder will house all of the projects I have written in CS252 Problem Solving & Programming II. 
+This class was taught in C++ therefore all projects are written in C++.
