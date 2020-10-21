@@ -11,6 +11,7 @@
 
 using namespace std;
 
+///Function created by Devin Suttler
 //randomly selects a starting position on the grid for each ball
 void SpawnBalls(int arrayR[], int arrayC[], int numBalls){
    //FILL THIS FUNCTION
@@ -65,7 +66,7 @@ int GetCoordUpdateR(int dir){
     else if(dir == 1 || dir == 0)
         return 0;
 }
-
+///Function created by Devin Suttler
 //similar to GetCoordUpdateR but for columns
 int GetCoordUpdateC(int dir){
     if(dir == 1 || dir == 7 || dir == 5)
@@ -120,6 +121,8 @@ int GetOppositeDir(int dir){
     Hint: for the case of bouncing against any of the four corners
           there is already a function you can use to give you the new direction
 */
+
+///Function created by Devin Suttler
 void Bounce(int &r, int &c, int &dir){
 
     //FILL THIS FUNCTION
