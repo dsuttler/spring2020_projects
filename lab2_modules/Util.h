@@ -11,7 +11,8 @@
 
 using namespace std;
 
-function prototypes
+//File created by Devin Suttler
+//function prototypes
 int     RandIntBetween(int ceiling, int floor);
 void    SetRandomGeneratorSeed();
 
