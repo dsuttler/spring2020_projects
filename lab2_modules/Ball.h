@@ -12,6 +12,7 @@
 
 using namespace std;
 
+///File created by Devin Suttler
 //function prototypes
 void    SpawnBalls(int arrayR[], int arrayC[], int numBalls);
 void    SetRandDirections(int directions[], int numBalls);
