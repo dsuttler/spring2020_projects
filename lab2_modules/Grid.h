@@ -12,6 +12,7 @@
 
 using namespace std;
 
+//file created by Devin Suttler
 //function prototypes
 void    PrintArray(int arr[], int size);
 void    SetGridBorders(char grid[25][25]);
