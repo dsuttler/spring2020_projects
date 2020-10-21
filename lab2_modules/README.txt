@@ -9,3 +9,4 @@ of iterations the program will loop through.
 
 #Note
 This project will only run on windows due to the windows.h file used.
+Part of the code was given to us by the professor as well. I have anotated my code.
